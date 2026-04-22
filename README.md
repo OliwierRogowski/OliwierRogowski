@@ -1,8 +1,8 @@
-# 💫 About Me:
+# About Me:
 I am a mathematician, physicist, and software engineer driven by a "no black boxes" philosophy. I believe that true mastery of Artificial Intelligence requires a deep understanding of the underlying mathematics and algorithms, which is why I choose to implement neural networks—such as Multi-Layer Perceptrons—from absolute scratch in pure C++. By bypassing high-level frameworks like PyTorch or TensorFlow, I focus on low-level hardware optimization and high-performance computing using custom-written CUDA kernels. My background in physics is a core pillar of my development process; it provides me with the unique capability to design and program advanced physics engines, which is one of my primary long-term goals. Beyond low-level optimization and AI research, I am a proficient full-stack developer experienced in building scalable web applications using C# ASP.NET and Angular. I bridge the gap between rigorous mathematical theory and engineering practice to create software that is efficient, transparent, and built from the ground up.
 
 
-## 🌐 Socials:
+## Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:orogowski953@gmail.com) 
 
 # 💻 Tech Stack:
